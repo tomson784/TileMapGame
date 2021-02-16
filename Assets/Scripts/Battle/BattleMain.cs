@@ -27,7 +27,7 @@ public class BattleMain : BattleBase
 
                   );
 
-                if (prefab != null && i != 3 && j != 3)
+                if (prefab != null)
                 {
                     // プレハブの複製 
                     GameObject instant_object =
